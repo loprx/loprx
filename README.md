@@ -21,23 +21,6 @@
 
 ---
 
-# Projects
-
-## Contribute to
-
-<table>
-<tbody>
-  <tr>
-    <td><a href="https://github.com/tldr-pages/tldr" target="_blank">tldr-pages</a></td>
-    <td><a href="https://github.com/tldr-pages/tldr/commits?author=lopr" target="_blank"><img
-                    src="https://img.shields.io/github/last-commit/lopr/tldr?style=flat-square&label=last"
-                    alt="GitHub last commit"></a></td>
-  </tr>
-  </tbody>
-</table>
-
----
-
 <details align="center" >
   <summary>Github Stats ⚡</summary>
 
